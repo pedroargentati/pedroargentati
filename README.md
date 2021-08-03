@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🔭 I’m currently working on GLR - Consultoria de Informática
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript, HTML, CSS**
 
 - 📫 How to reach me **pedro.argentatii@gmail.com**
 
