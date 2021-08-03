@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🔭 I’m currently working on GLR - Consultoria de Informática
+- 🔭 I’m currently working on **GLR - Consultoria de Informática**
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
