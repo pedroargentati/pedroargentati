@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- 📫 How to reach me **pedro.argentatii@gmail.com**
 
  <div>
   <a href="https://github.com/pedroargentati">
