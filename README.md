@@ -2,11 +2,13 @@
 <h3 align="center">A frontend developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
+
+- 🔭 I'm currently working as a **BackEnd Developer** (Java)
 
 - 🔭 I’m currently working on **GLR - Consultoria de Informática**
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, Java, HTML, CSS**
 
 
  <div>
