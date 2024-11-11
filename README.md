@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working as a **BackEnd Developer** (Java)
 
-- 🔭 I’m currently working on **GLR - Consultoria de Informática**
+- 🔭 I’m currently working on **Avanade**
 
 - 💬 Ask me about **JavaScript, Java, HTML, CSS**
 
