@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Argentati</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-
-- 🌱 I’m currently learning **Java**
-
-- 🔭 I'm currently working as a **BackEnd Developer** (Java)
-
-- 🔭 I’m currently working on **Avanade**
+- 🔭 I'm currently working as a **BackEnd Developer** (Java) on **Avanade**
 
 - 💬 Ask me about **JavaScript, Java, HTML, CSS**
-
 
  <div>
   <a href="https://github.com/pedroargentati">
