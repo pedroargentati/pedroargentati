@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Argentati</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🔭 I'm currently working as a **BackEnd Developer** (Java) on **Avanade**
+- 🔭 I'm currently working as a **BackEnd Developer** (Java) on **Bradesco**
 
-- 💬 Ask me about **JavaScript, Java, HTML, CSS**
+- 💬 Ask me about **JavaScript, Java, Spring Boot, Azure**
 
  <div>
   <a href="https://github.com/pedroargentati">
